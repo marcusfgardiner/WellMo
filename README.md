@@ -1,10 +1,10 @@
 # WellMo
 
-###### WellMo is a single page web application that checks in with your mood and returns a helpful response.
-
-###### Team Challenge: Learn ReactJS in 5 days by test-driving the development of WellMo, a wellbeing check-in application
+#### WellMo is a single page web application that checks in with your mood and returns a helpful response.
 
 <img src="WellMo.gif" width="100%" height="100%" />
+
+#### Team Challenge: Learn ReactJS in 5 days by test-driving the development of WellMo, a wellbeing check-in application
 
 ## Technologies
 
