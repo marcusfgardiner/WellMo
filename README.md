@@ -1,6 +1,10 @@
 # WellMo
 
-WellMo is a single page web application that checks in with your mood and returns a helpful response.
+###### WellMo is a single page web application that checks in with your mood and returns a helpful response.
+
+###### Team Challenge: Learn ReactJS in 5 days by test-driving the development of WellMo, a wellbeing check-in application
+
+<img src="WellMo.gif" width="100%" height="100%" />
 
 ## Technologies
 
@@ -68,7 +72,7 @@ For feature tests:
 
 * Detailed planning was vital in setting up where we wanted our app to go. Keeping the MVP as simple as possible meant we could tightly steer our work towards a clear goal. Once you have an MVP, you can then decide on next best steps to develop. It is clear why this is Agile best practice and we have appreciated the agility is has given us to explore so much learning.
 
-* Assign pairs fundamentally different tasks. Task allocation and separation is vital to leverage the power of groups and multiple pairs. Both pairs can then knowledge exchange what they have learned to each other, covering far more than only 1 pair could, or 2 pairs covering the same topic. 
+* Assign pairs fundamentally different tasks. Task allocation and separation is vital to leverage the power of groups and multiple pairs. Both pairs can then knowledge exchange what they have learned to each other, covering far more than only 1 pair could, or 2 pairs covering the same topic.
 
 ## Our approach in detail
 
