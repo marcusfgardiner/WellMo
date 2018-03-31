@@ -4,7 +4,7 @@
 
 <img src="WellMo.gif" width="100%" height="100%" />
 
-
+To view the deployed app, go to https://wellmo.herokuapp.com/ [![Heroku](https://cloud.githubusercontent.com/assets/12953472/18688266/701982fc-7f7b-11e6-8971-5f1e03f554b7.png)](https://wellmo.herokuapp.com/)
 
 ## Technologies
 
@@ -27,8 +27,6 @@
 - Terry Allitt (BigTez)
 
 ## How to use
-
-To use straight away, go [here](https://wellmo.herokuapp.com/).
 
 `git clone git@github.com:DKeen0123/WellMo.git`
 
